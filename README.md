@@ -15,3 +15,5 @@
 
 #### Example usage
 > `clean_git_pull` `-b` **`name of branch`**
+
+PS: `clean_git_pull`  is the alias I used in my shell config
