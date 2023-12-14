@@ -3,7 +3,7 @@
 #### This script hekps clean your git workspace by doing a clean pull
 
 #### Why do you need this script?
-> It saves you time simple
+> It saves you time, simple
 
 
 #### How to use:
