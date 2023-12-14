@@ -3,7 +3,7 @@
 #### This script hekps clean your git workspace by doing a clean pull
 
 #### Why do you need this script?
->> It saves you time simple
+> It saves you time simple
 
 
 #### How to use:
@@ -14,4 +14,4 @@
 - You can add an alias in your bash or zsh config for this script and then go ahead to use the script in a git directory.
 
 #### Example usage
->>>> `clean_git_pull` `-b` **`name of branch`**
+> `clean_git_pull` `-b` **`name of branch`**
