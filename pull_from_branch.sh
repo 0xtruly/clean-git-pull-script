@@ -9,6 +9,7 @@ if [ "$1" = "--branch" -o "$1" = "-b" ]; then
    git reset --hard
    git pull origin $BRANCH
    git checkout $BRANCH
+   git reset --hard
    git pull origin $BRANCH
 fi
 echo $BRANCH "branch is ready. Happy coding..."
